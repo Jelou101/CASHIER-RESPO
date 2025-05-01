@@ -2040,7 +2040,7 @@ border-radius: 11;
                   <item>
                    <widget class="QStackedWidget" name="gutterwidget_2">
                     <property name="currentIndex">
-                     <number>0</number>
+                     <number>3</number>
                     </property>
                     <widget class="QWidget" name="page_7">
                      <layout class="QVBoxLayout" name="verticalLayout_34">
@@ -7617,7 +7617,7 @@ QPushButton#activeButton {
                   <item>
                    <widget class="QStackedWidget" name="gutterwidget">
                     <property name="currentIndex">
-                     <number>0</number>
+                     <number>1</number>
                     </property>
                     <widget class="QWidget" name="page_3">
                      <layout class="QVBoxLayout" name="verticalLayout_23">
@@ -10502,6 +10502,9 @@ QPushButton#activeButton {
    </layout>
   </widget>
  </widget>
- <resources/>
+ <resources>
+  <include location="../jhane/JJ-Elevate-Owner-Files-/jj_owner_resources.qrc"/>
+  <include location="jj_owner_resources.qrc"/>
+ </resources>
  <connections/>
 </ui>
